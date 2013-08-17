@@ -1,0 +1,8 @@
+{
+  "name": "a2lamp-requirejs-demo",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-requirejs": "~0.4.1"
+  }
+}
