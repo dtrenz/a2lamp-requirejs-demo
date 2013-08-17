@@ -1,4 +1,4 @@
-var config = {
+define({
     bgColor: 'blue',
     textColor: 'green'
-};
+});
